@@ -1,0 +1,24 @@
+.banner{
+background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+ 
+ background-size: cover;
+ padding-top: 20% ;
+ padding-bottom: 20%;
+ color: #fff;
+ height: 20px;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    width: 250px;
+    border: 6px solid rgb(6, 8, 22)
+}
+section{
+    padding-top: 70px;
+}
+a{
+    text-decoration: none;
+}
